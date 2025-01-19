@@ -9,7 +9,7 @@ Este repositório contém um projeto de reconhecimento de texto em imagens, most
 
 ## Processo
 1. As imagens foram carregadas na pasta `inputs/`.
-2. As imagens passaram por um processo de reconhecimento de texto utilizando [ferramenta/biblioteca que você usou, ex.: Tesseract OCR].
+2. As imagens passaram por um processo de reconhecimento de texto
 3. Os resultados foram salvos na pasta `output/`.
 
 ## Insights e Possibilidades
@@ -18,6 +18,11 @@ Este repositório contém um projeto de reconhecimento de texto em imagens, most
 - Possíveis aplicações incluem automação de tarefas, digitalização de documentos e extração de informações.
 
 ## Prints do Processo
-**Exemplo de imagem processada:**
-![Imagem Original](inputs/Keanu-Reeves.jpg)
-![Resultado](output/Keanu-Reeves-processed.JPG)
+**1º imagem processada:**
+![Imagem Original](inputs/anunio01.jpg)
+![Resultado](output/anuncio01-output.JPG)
+
+***
+2º imagem processada:
+![Imagem Original](inputs/anunio02.png)
+![Resultado](output/anuncio02-output.JPG)
